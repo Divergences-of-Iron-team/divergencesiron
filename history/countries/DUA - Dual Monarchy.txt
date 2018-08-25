@@ -1,0 +1,90 @@
+capital = #Londres
+
+oob = #find someone to do this for us 
+
+set_research_slots = 5
+
+set_stability = 0.45
+set_war_support = 0.35
+
+# Starting tech
+set_technology = {
+	### MOD ###
+	### General ###
+	shipbuild_basics = 1
+	electronic_mechanical_engineering = 1
+	### Navy ###
+	early_submarine = 1
+	early_destroyer = 1
+	basic_destroyer = 1
+	early_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	early_carrier = 1
+	transport = 1
+	basic_carrier = 1
+	### Tanks ###
+	gwtank = 1
+	basic_light_tank = 1
+	basic_heavy_tank = 1
+	### INF ###
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	### AIR ###
+	early_fighter = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	strategic_bomber1 = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+	
+	set_convoys = 200
+
+set_politics = {
+
+	parties = {
+		lazzarist = {
+			popularity = 2
+		}
+		bernsteinist = {
+			popularity = 5
+		}
+		vanguardist = {
+			popularity = 1
+		}
+		social_democrat = {
+			popularity = 18
+		}
+		social_liberal = {
+			popularity = 23
+		}
+		market_liberal = {
+			popularity = 21
+		}
+		social_conservative = {
+			popularity = 30
+		}
+		authoritarian_democrat = {
+			popularity = 0
+		}
+		paternal_autocrat = {
+			popularity = 0
+		}
+		national_populist = {
+			popularity = 0
+		}
+		fundamentalist = {
+			popularity = 0
+	}
+
+	ruling_party = social_conservative
+	last_election = "1935.11.18
+	election_frequency = 48
+	elections_allowed = no
+}

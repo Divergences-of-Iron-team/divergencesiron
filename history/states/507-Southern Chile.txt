@@ -1,0 +1,22 @@
+
+state={
+	id=507
+	name="STATE_507"
+
+	history={
+		owner = CHL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = CHL
+
+	}
+
+	provinces={
+		2161 2215 5118 5121 5159 5169 8192 8198 8218 8229 8251 10961 12920 12954 12984 
+	}
+	manpower=68693
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

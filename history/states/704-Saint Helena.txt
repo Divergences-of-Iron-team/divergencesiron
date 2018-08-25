@@ -1,0 +1,25 @@
+
+state={
+	id=704
+	name="STATE_704"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+			13016 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1082 1197 1934 4087 4318 4425 4588 4996 7469 8063 10920 12464 
+	}
+	manpower=2485
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

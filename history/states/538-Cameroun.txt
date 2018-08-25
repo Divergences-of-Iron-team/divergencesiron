@@ -1,0 +1,25 @@
+
+state={
+	id=538
+	name="STATE_538"
+	resources={
+		rubber=5.000
+	}
+
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = COG
+
+	}
+
+	provinces={
+		1953 2096 4033 7996 10764 10857 10859 10877 10908 12744 12800 
+	}
+	manpower=1693974
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

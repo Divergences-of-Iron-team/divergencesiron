@@ -1,0 +1,22 @@
+
+state={
+	id=381
+	name="STATE_381"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = USA
+
+	}
+
+	provinces={
+		1352 1564 1753 3708 4757 4811 7834 7892 9802 10333 10391 10516 10532 10606 10676 10717 12024 12513 
+	}
+	manpower=225564
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

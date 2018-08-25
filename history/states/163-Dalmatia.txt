@@ -1,0 +1,25 @@
+
+state={
+	id=163
+	name="STATE_163"
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 5
+			3943 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3773 3976 6606 6790 6985 9752 
+	}
+	manpower=18000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=505
+	name="STATE_505"
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		2168 2190 5151 5153 5174 5204 5208 5218 8129 10984 12947 12959 
+	}
+	manpower=1662200
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

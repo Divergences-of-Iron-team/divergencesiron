@@ -1,0 +1,26 @@
+
+state={
+	id=396
+	name="STATE_396"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+
+		}
+		add_core_of = USA
+		victory_points = {
+			1595 5 
+		}
+
+	}
+
+	provinces={
+		720 1595 1655 4437 4508 4531 6713 6737 7551 7611 9450 9653 9682 10339 10448 10461 11589 12312 12368 12437 12497 
+	}
+	manpower=3238501
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

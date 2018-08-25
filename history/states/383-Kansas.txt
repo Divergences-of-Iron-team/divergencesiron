@@ -1,0 +1,34 @@
+
+state={
+	id=383
+	name="STATE_383"
+	resources={
+		oil=30.000
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = USA
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		868 2102 4975 9792 10642 12552 12627 12684 
+	}
+	manpower=1880998
+	buildings_max_level_factor=1.000
+	state_category=city
+}
